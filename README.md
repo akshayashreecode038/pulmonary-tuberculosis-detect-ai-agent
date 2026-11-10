@@ -227,7 +227,7 @@ This project demonstrates practical applications of:
 
 ## ⚠️ Medical Disclaimer
 
-This project is developed for educational and research purposes. Its predictions are AI-generated screening outputs and must not be considered a medical diagnosis. The system is not a replacement for professional medical evaluation, radiologist interpretation, or clinical testing.
+This project is developed for educational and research purposes. Its predictions are AI-generated screening outputs and must not be considered a medical diagnosis. The system is not a replacement for professional medical evaluation, radiologist interpretation, or clinical testing. It is an assistant tool
 
 ## 👩‍💻 Author
 
