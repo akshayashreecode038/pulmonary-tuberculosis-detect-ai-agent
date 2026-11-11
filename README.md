@@ -216,6 +216,12 @@ This project demonstrates practical applications of:
 - Integrating AI/ML models with React-based web applications.
 - Developing interactive dashboards for AI-powered applications.
 
+Screenshots <img width="1892" height="1005" alt="Screenshot 2026-10-16 164953" src="https://github.com/user-attachments/assets/0b000777-9d98-4132-8288-049e85e78e9b" /><img width="1892" height="1031" alt="Screenshot 2026-10-13 090055" src="https://github.com/user-attachments/assets/cdf377dd-5e68-492e-821a-8565eb1db5b8" />
+<img width="1598" height="845" alt="Screenshot 2026-10-13 090407" src="https://github.com/user-attachments/assets/336d635a-426f-4c2c-84cd-289078ab6341" />
+<img width="1906" height="1037" alt="Screenshot 2026-10-13 095249" src="https://github.com/user-attachments/assets/6c6c360a-cb33-48b9-938b-da0c2b0fe1c1" />
+
+
+
 ## 🚀 Future Enhancements
 
 - Integration with larger and more diverse medical imaging datasets.
