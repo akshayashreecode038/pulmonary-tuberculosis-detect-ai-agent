@@ -79,7 +79,7 @@ cd pulmonary-tuberculosis-detect-ai-agent
 ### Step 2: Install Python Dependencies
 
 ```bash
-pip install -r ai-agent/requirements.txt
+pip install -r ai_agent/requirements.txt
 ```
 
 ### Step 3: Download the Trained Model Weights
