@@ -221,7 +221,6 @@ Screenshots <img width="1892" height="1005" alt="Screenshot 2026-10-16 164953" s
 <img width="1906" height="1037" alt="Screenshot 2026-10-13 095249" src="https://github.com/user-attachments/assets/6c6c360a-cb33-48b9-938b-da0c2b0fe1c1" />
 
 
-
 ## 🚀 Future Enhancements
 
 - Integration with larger and more diverse medical imaging datasets.
